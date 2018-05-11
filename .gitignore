@@ -1,0 +1,12 @@
+extractTextVideo/.env
+extractTextVideo/img/
+extractTextVideo/videos/
+extractTextVideo/*.txt
+
+test/.env
+test/img/
+test/videos/
+test/*.json
+test/*.png
+test/*.yaml
+test/*.txt
